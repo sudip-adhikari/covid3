@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 21 11:16:06 2020
-
+The recently updated map of Nepal including Byas Gaupalika of the Kalapani area is used here.
 @author: Admin
 """
 
