@@ -3,6 +3,7 @@
 Created on Mon Sep 21 11:16:06 2020
 
 @author: Admin
+The recently updated map of Nepal including the Byas Gaupalika of the Kalapani area is used here.
 """
 
 import pandas as pd
